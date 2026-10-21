@@ -32,7 +32,7 @@ A Python command-line tool that checks selected HTTP security response headers f
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/ENOCK-security/Web-Security-Header-Analyzer.git
 cd Web-Security-Header-Analyzer
 ```
 
@@ -90,3 +90,4 @@ Use this tool only on websites you own or have explicit permission to assess. It
 ## Project Status
 
 The core CLI, header validation logic, report generation, and unit tests are implemented. Further improvements may include stronger policy validation, safer redirect handling, and additional test coverage.
+
